@@ -10,10 +10,10 @@ GOALHEIGHT = 5;
 PLAYERWIDTH = 2;
 PLAYERHEIGHT = 2;
 FRAMETIME = (1/15);
-GRAVITY = 9.8; % gravity on the moon
+GRAVITY = 9.8;
 MOVESPEED = 5; % units per second
 JUMPV = 10;
-LEVELS = cellstr(['level0.csv';'level1.csv']);
+LEVELS = cellstr(['level0.csv';'level1.csv';'level2.csv']);
 
 % MAIN FUNCTION
 % Initialize everything
